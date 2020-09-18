@@ -7,3 +7,4 @@ Exemplo comando clone:
 4 - Ls (print_03 mostrando diretório do projeto e Readme nele contido)
 
 Exemplos comando Add
+05 - antes do add print_05
