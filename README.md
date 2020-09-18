@@ -2,6 +2,8 @@ James Leite Francisco - RA 1903856
 
 Exemplo comando clone:
 1 - Criando um repositorio via interface (print_01)
-2 - Ls (print_02 mostrando diretório vazio)
+2 - Ls (print_02 mostrando diretÃ³rio vazio)
 3 - Clone (print_03
-4 - Ls (print_03 mostrando diretório do projeto e Readme nele contido)
+4 - Ls (print_03 mostrando diretÃ³rio do projeto e Readme nele contido)
+
+Exemplos comando Add
